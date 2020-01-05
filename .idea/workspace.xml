@@ -2,47 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a94ec81-a5dd-4e26-95e9-ce531dc361f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/game/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/car2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/car3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/car4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/car.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/car.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/car2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/car3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/car4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.py" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/game/car.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,17 +27,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/game/default.py" />
-        <option value="$PROJECT_DIR$/game/ui.py" />
-        <option value="$PROJECT_DIR$/game/__init__.py" />
-        <option value="$PROJECT_DIR$/ui.py" />
-        <option value="$PROJECT_DIR$/game/car.py" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -75,39 +37,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="y" value="22" />
-    <option name="width" value="1321" />
-    <option name="height" value="878" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="neural_cars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neural_cars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="neural_cars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="neural_cars" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1VzTrsnijXG6aFG7nyXa3oVzSYD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -115,18 +54,6 @@
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/car2.png" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="ui" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -141,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game_env.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,6 +83,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -169,59 +108,34 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="63" y="22" width="1321" height="878" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32951653" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="2" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.32951653" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.24173027" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game/default.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game/car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1652" height="227" key="GridCell.Tab.0.bottom" timestamp="1578264060794">
+      <screen x="62" y="27" width="2498" height="1413" />
+    </state>
+    <state width="1652" height="227" key="GridCell.Tab.0.bottom/62.27.2498.1413@62.27.2498.1413" timestamp="1578264060794" />
+    <state width="1652" height="227" key="GridCell.Tab.0.center" timestamp="1578264060794">
+      <screen x="62" y="27" width="2498" height="1413" />
+    </state>
+    <state width="1652" height="227" key="GridCell.Tab.0.center/62.27.2498.1413@62.27.2498.1413" timestamp="1578264060794" />
+    <state width="1652" height="227" key="GridCell.Tab.0.left" timestamp="1578264060794">
+      <screen x="62" y="27" width="2498" height="1413" />
+    </state>
+    <state width="1652" height="227" key="GridCell.Tab.0.left/62.27.2498.1413@62.27.2498.1413" timestamp="1578264060794" />
+    <state width="1652" height="227" key="GridCell.Tab.0.right" timestamp="1578264060794">
+      <screen x="62" y="27" width="2498" height="1413" />
+    </state>
+    <state width="1652" height="227" key="GridCell.Tab.0.right/62.27.2498.1413@62.27.2498.1413" timestamp="1578264060794" />
+    <state x="491" y="294" width="1022" height="737" key="SettingsEditor" timestamp="1578255485988">
+      <screen x="62" y="27" width="2498" height="1413" />
+    </state>
+    <state x="491" y="294" width="1022" height="737" key="SettingsEditor/62.27.2498.1413@62.27.2498.1413" timestamp="1578255485988" />
+    <state x="653" y="329" width="770" height="779" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578262647753">
+      <screen x="62" y="27" width="2498" height="1413" />
+    </state>
+    <state x="653" y="329" width="770" height="779" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/62.27.2498.1413@62.27.2498.1413" timestamp="1578262647753" />
+    <state x="706" y="386" width="672" height="678" key="search.everywhere.popup" timestamp="1578258886101">
+      <screen x="62" y="27" width="2498" height="1413" />
+    </state>
+    <state x="706" y="386" width="672" height="678" key="search.everywhere.popup/62.27.2498.1413@62.27.2498.1413" timestamp="1578258886101" />
   </component>
 </project>
