@@ -7,7 +7,7 @@
 # Run
 Python 3.7
 
-'''console
+```
 pip install -r requirements.txt
 python3 -m game_env
-'''
+```
